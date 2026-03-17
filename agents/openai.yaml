@@ -1,0 +1,4 @@
+interface:
+  display_name: "PubMed Search"
+  short_description: "Search PubMed and summarize papers"
+  default_prompt: "Use $pubmed-search to search PubMed, fetch paper details, and return a concise Chinese summary with links."
